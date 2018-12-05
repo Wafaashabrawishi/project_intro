@@ -1,0 +1,43 @@
+/* i used www.w3school..com as Reference 
+and Google fonts*/
+.card{
+width: 300px;
+background: linear-gradient(to bottom, 	#778899 0%, #A9A9A9 100%);
+border: 1px hidden;
+padding: 10px;
+box-shadow: #989898 3px 3px 3px;
+}
+
+.des{
+border: 1px hidden;
+padding: 0 10px;
+margin: 10px 0 0;
+word-break: break-all;
+font-family: 'Bitter', serif;
+font-size: 12px;
+color: azure;
+}
+
+img{
+    border-radius: 10px;
+}
+
+h3{
+    font-family: 'Bitter', serif;
+    text-align: center;
+    color: #696969;
+    text-shadow: 2px 2px 8px;
+ }
+
+#font{
+    font-style: italic;
+    color: azure;
+}
+ul{
+    list-style: none;
+    margin: 0 -35px 0;
+}
+ul li span{
+    font-weight: bold;
+    color: #808080;
+}
